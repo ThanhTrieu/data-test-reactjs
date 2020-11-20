@@ -84,3 +84,4 @@ const data = [
 		price: "34990000"
 	}
 ];
+export default data;

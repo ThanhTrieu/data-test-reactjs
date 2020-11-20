@@ -1,4 +1,4 @@
-const data1 = {
+const data_v1 = {
 	featured: [
 		{
 			id: 13,
@@ -90,3 +90,4 @@ const data1 = {
 		}
 	]
 }
+export default data_v1;
